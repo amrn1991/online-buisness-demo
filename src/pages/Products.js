@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
-import { InfoSection } from "../../components";
-import { homeObjOne, homeObjTwo } from "./Data";
+import { InfoSection } from "../components";
+import { homeObjOne, homeObjTwo } from "../Data";
 
 function Products() {
   return (
